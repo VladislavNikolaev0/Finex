@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "dollarsign.circle.fill",
+        "color": "dollarBill",
+        "title": "payday"
+    },
+    {
+        "icon": "creditcard.circle.fill",
+        "color": "antiqueBrass",
+        "title": "cashback"
+    },
+    {
+        "icon": "tag.fill",
+        "color": "royalPurple",
+        "title": "other"
+    }
+]

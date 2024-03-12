@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  Finex
+
+  Created by Vladislav Nikolaev on 19.02.2024.
+  
+*/
+"tracker" = "Tracker";
+"history" = "History";
+"settings" = "Settings";
+"budget" = "Budget";
+"spend" = "Spend";
+"received" = "Received";
+"categories" = "Categories";
+"eat" = "Food and drinks";
+"transport" = "Transport";
+"house" = "House";
+"travel" = "Travel";
+"present" = "Gifts";
+"other" = "Other";
+"payday" = "Salary";
+"cashback" = "Cashback";
+"notOver" = "You aren't exceeding the budget";
+"over" = "You've exceeded the budget";
+"lost" = "You've spent";
+"day" = "Day";
+"week" = "Week";
+"month" = "Month";
+"year" = "Year";
+"save" = "Save";
+"purpose" = "Budget goal:";
+"newWaste" = "New expense";
+"newIncome" = "New income";
+"waste" = "Expense";
+"income" = "Income";
+"sum" = "Sum";
+"system" = "System";
+"black" = "Dark";
+"light" = "Light";
+"language" = "Language";
+"languageType" = "English";
+"ja" = "Jan";
+"fe" = "Feb";
+"ma" = "Mar";
+"ap" = "Apr";
+"may" = "May";
+"jun" = "Jun";
+"jul" = "Jul";
+"au" = "Aug";
+"sept" = "Sep";
+"oct" = "Oct";
+"no" = "Nov";
+"de" = "Dec";
+"mo" = "Mon";
+"tu" = "Tue";
+"we" = "Wen";
+"th" = "Thu";
+"fr" = "Fri";
+"sa" = "Sat";
+"su" = "Sun";
+"chat" = "Chat";
+"currency" = "Currency";
+"add" = "Add";
+"color" = "Color";
+"icon" = "Icon";
+"titleCategory" = "Title category";
+"yourCategoryes" = "Your categories";
+"enterMessage" = "Enter message";
+"newCategory" = "New category";
+"analiz" = "Analiz my spends";
+"why" = "Why it's worth cutting back on spending";
+"advice" = "Advice on spending";

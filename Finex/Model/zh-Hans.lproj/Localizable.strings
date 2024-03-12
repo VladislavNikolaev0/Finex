@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  Finex
+
+  Created by Vladislav Nikolaev on 19.02.2024.
+  
+*/
+"tracker" = "跟踪器";
+"history" = "记录";
+"settings" = "设置";
+"budget" = "预算";
+"spend" = "费用";
+"received" = "收入";
+"categories" = "种类";
+"eat" = "食物和饮水";
+"transport" = "运输";
+"house" = "家";
+"travel" = "旅游";
+"present" = "礼物";
+"other" = "其他";
+"payday" = "工资";
+"cashback" = "现金返还";
+"notOver" = "你还没超出预算";
+"over" = "你走出了预算";
+"lost" = "你花了";
+"day" = "日";
+"week" = "星期";
+"month" = "月";
+"year" = "年";
+"save" = "保存";
+"purpose" = "预算目的";
+"newWaste" = "新费用";
+"newIncome" = "新收入";
+"waste" = "费用";
+"income" = "收入";
+"sum" = "资金";
+"system" = "程序系统";
+"black" = "深色主题";
+"light" = "明亮主题";
+"language" = "语信";
+"languageType" = "简体中文";
+"ja" = "一月";
+"fe" = "二月";
+"ma" = "三月";
+"ap" = "四月";
+"may" = "五月";
+"jun" = "六月";
+"jul" = "七月";
+"au" = "八月";
+"sept" = "九月";
+"oct" = "十月";
+"no" = "十一月";
+"de" = "十二月";
+"mo" = "周一";
+"tu" = "周二";
+"we" = "周三";
+"th" = "周四";
+"fr" = "周五";
+"sa" = "周六";
+"su" = "周日";
+"chat" = "聊天";
+"currency" = "通货";
+"add" = "添上";
+"color" = "颜色";
+"icon" = "图签";
+"titleCategory" = "种类的名称";
+"yourCategoryes" = "你的种类";
+"enterMessage" = "输入一条消息";
+"analiz" = "分析我的费用";
+"why" = "为什么要缩减开支?";
+"advice" = "省钱建议";
+"newCategory" = "新种类";

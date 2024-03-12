@@ -1,0 +1,32 @@
+[
+    {
+        "icon": "fork.knife",
+        "color": "corn",
+        "title": "eat"
+    },
+    {
+        "icon": "car.fill",
+        "color": "indianRed",
+        "title": "transport"
+    },
+    {
+        "icon": "house.fill",
+        "color": "royalBlue",
+        "title": "house"
+    },
+    {
+        "icon": "airplane",
+        "color": "magicMint",
+        "title": "travel"
+    },
+    {
+        "icon": "gift.fill",
+        "color": "amaranthPick",
+        "title": "present"
+    },
+    {
+        "icon": "tag.fill",
+        "color": "royalPurple",
+        "title": "other"
+    }
+]
