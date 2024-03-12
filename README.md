@@ -13,5 +13,5 @@ Using the Realm database in the project
 
 
 
-![FinexIcon](https://github.com/VladislavNikolaev0/Finex/assets/163148197/d4805a31-77f0-4042-a8b4-4fad84b223b2){width=20%}
+![FinexIcon](https://github.com/VladislavNikolaev0/Finex/assets/163148197/d4805a31-77f0-4042-a8b4-4fad84b223b2) {width=20%}
 
