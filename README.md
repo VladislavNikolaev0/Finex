@@ -1,5 +1,7 @@
 # IOS Project: Income and Expense Tracker
 
+![Alt text](./promo.png?raw=true "Tracker iOS App SwiftUI")
+
 ## Features: 
 * Adding and removing income or expense
 * Convenient tracking of actions at various time intervals
