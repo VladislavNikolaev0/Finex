@@ -1,5 +1,9 @@
 # IOS Project: Income and Expense Tracker
 
+![Alt text](./icon.png?raw=true "Finex")
+
+## _______________________________
+
 ![Alt text](./promo.png?raw=true "Tracker iOS App SwiftUI")
 
 ## Features: 
