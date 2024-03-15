@@ -12,7 +12,7 @@ enum Theme: String, CaseIterable {
     case systemDefault = "system"
     case dark = "black"
     case light = "light"
-    case glass = "glass"
+    case glass = "Finex"
     
     var colorScheme: ColorScheme? {
         switch self {
